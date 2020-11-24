@@ -3,6 +3,8 @@
 #I should be shown the number of tickets remaining..
 #I should have a personalized experience so that I feel welcomed by the brand..
 #I should be able to request a certain amount of tickets and be told the total cost so I can determine if I want to purchase the tickets
+#Error messages should be convenient/user friendly
+
 SERVICE_CHARGE = 2
 
 TICKET_PRICE = 10
